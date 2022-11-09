@@ -1,4 +1,4 @@
-''' Dette er et repo som bare settes oppp for å 
-dcs
+''' Dette er et repo som bare settes opp for å 
+sette opp testfunksjonalitet
 '''
 
